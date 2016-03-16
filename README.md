@@ -4,8 +4,7 @@
 
 This patch adjusts the position of input field above keyboard when status bar is shown in iOS 7 or later. 
 
-![Patch not applied](./images/not_applied.png)
-![Patch applied](./images/applied.png)
+![](./images/patch.png)
 
 This patch is compatible with Unity versions below:
 
