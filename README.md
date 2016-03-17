@@ -2,12 +2,13 @@
 
 ##Description
 
-This patch adjusts the position of input field above keyboard when status bar is shown in iOS 7 or later. 
+This patch adjusts position and height of input field above keyboard when status bar is shown in iOS 7 or later. 
 
 ![](./images/patch.png)
 
 This patch is compatible with Unity versions below:
 
+-	Unity 5.4.0f10
 -	Unity 5.3.4f1
 -	Unity 5.2.4f1
 
